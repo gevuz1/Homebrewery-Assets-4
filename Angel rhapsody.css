@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Angel rhapsody';
-    src: url('fonts/Angel-rhapsody.eot');
-    src: url('fonts/Angel-rhapsody.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Angel-rhapsody.woff2') format('woff2'),
-         url('fonts/Angel-rhapsody.woff') format('woff'),
-         url('fonts/Angel-rhapsody.ttf')  format('truetype'),
-         url('fonts/Angel-rhapsody.svg#Angel rhapsody') format('svg');
+    src: url('Angel-rhapsody.eot');
+    src: url('Angel-rhapsody.eot?#iefix') format('embedded-opentype'),
+         url('Angel-rhapsody.woff2') format('woff2'),
+         url('Angel-rhapsody.woff') format('woff'),
+         url('Angel-rhapsody.ttf')  format('truetype'),
+         url('Angel-rhapsody.svg#Angel rhapsody') format('svg');
 }
